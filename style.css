@@ -22,7 +22,7 @@ section
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	gap: 100px;
+	gap: 10px;
 	flex-wrap: wrap;
 	overflow: hidden;
 }
